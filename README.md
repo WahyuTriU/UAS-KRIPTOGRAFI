@@ -12,3 +12,7 @@ Kalimat sesudah dienkrip
 
 ![image](https://user-images.githubusercontent.com/121652546/212471741-fbddedad-e410-41ee-8989-883782255bcd.png)
 
+Kalimat sesudah dideskriptif
+
+![image](https://user-images.githubusercontent.com/121652546/212472099-d0c8999f-51c9-4341-93e3-e15edf61e040.png)
+
